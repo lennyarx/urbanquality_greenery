@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "electric",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w203286057", "osm_id": "203286057", "osm_type": "way", "building": "service" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.3268654, 60.0714568 ], [ 30.3269745, 60.0714777 ], [ 30.3270186, 60.0714205 ], [ 30.3269095, 60.0713996 ], [ 30.3268654, 60.0714568 ] ] ] ] } },
+{ "type": "Feature", "properties": { "full_id": "w203932466", "osm_id": "203932466", "osm_type": "way", "building": "service" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.3310885, 60.0697254 ], [ 30.3311653, 60.0697079 ], [ 30.3311302, 60.0696697 ], [ 30.3310534, 60.0696872 ], [ 30.3310885, 60.0697254 ] ] ] ] } },
+{ "type": "Feature", "properties": { "full_id": "w203932467", "osm_id": "203932467", "osm_type": "way", "building": "service" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.3281046, 60.0731919 ], [ 30.3281572, 60.0732478 ], [ 30.3284125, 60.0731881 ], [ 30.3283598, 60.0731321 ], [ 30.3281046, 60.0731919 ] ] ] ] } },
+{ "type": "Feature", "properties": { "full_id": "w203932468", "osm_id": "203932468", "osm_type": "way", "building": "service" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.3319872, 60.0693379 ], [ 30.3320686, 60.069356 ], [ 30.3321736, 60.0692386 ], [ 30.3320922, 60.0692205 ], [ 30.3319872, 60.0693379 ] ] ] ] } },
+{ "type": "Feature", "properties": { "full_id": "w203932469", "osm_id": "203932469", "osm_type": "way", "building": "service" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.3341305, 60.0705057 ], [ 30.3342044, 60.0704187 ], [ 30.3341256, 60.070402 ], [ 30.3340516, 60.0704891 ], [ 30.3341305, 60.0705057 ] ] ] ] } },
+{ "type": "Feature", "properties": { "full_id": "w1342085533", "osm_id": "1342085533", "osm_type": "way", "building": "service" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.33648, 60.0718841 ], [ 30.3365605, 60.0717878 ], [ 30.3364635, 60.0717676 ], [ 30.336383, 60.071864 ], [ 30.33648, 60.0718841 ] ] ] ] } }
+]
+}
