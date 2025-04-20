@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "electric",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "building": "service" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.2732408, 59.9631581 ], [ 30.2733923, 59.9632211 ], [ 30.2735132, 59.9631483 ], [ 30.2733617, 59.9630853 ], [ 30.2732408, 59.9631581 ] ] ] } },
+{ "type": "Feature", "properties": { "building": "service" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.2724935, 59.9617079 ], [ 30.2724165, 59.9617504 ], [ 30.2723375, 59.9617146 ], [ 30.2724145, 59.9616721 ], [ 30.2724935, 59.9617079 ] ] ] } },
+{ "type": "Feature", "properties": { "building": "service" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.2751719, 59.9631545 ], [ 30.2752519, 59.9631915 ], [ 30.2754018, 59.9631102 ], [ 30.2753218, 59.9630732 ], [ 30.2751719, 59.9631545 ] ] ] } },
+{ "type": "Feature", "properties": { "building": "service" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.2719086, 59.962682 ], [ 30.2720585, 59.962738 ], [ 30.272186, 59.9626526 ], [ 30.2720361, 59.9625966 ], [ 30.2719086, 59.962682 ] ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "parking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ 30.2687545, 59.9628827 ] } },
+{ "type": "Feature", "properties": { "amenity": "parking" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.2737255, 59.9629716 ], [ 30.2738009, 59.9629985 ], [ 30.2740653, 59.9628124 ], [ 30.2739899, 59.9627856 ], [ 30.2737255, 59.9629716 ] ] ] } }
+]
+}
